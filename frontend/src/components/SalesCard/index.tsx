@@ -41,7 +41,7 @@ function SalesCard() {
                         onChange={(date: Date) => setMinDate(date)}
                         className="dsmeta-form-control"
                         dateFormat="dd/MM/yyyy"
-                    />;
+                    />
 
                 </div>
 
@@ -51,7 +51,7 @@ function SalesCard() {
                         onChange={(date: Date) => setMaxDate(date)}
                         className="dsmeta-form-control"
                         dateFormat="dd/MM/yyyy"
-                    />;
+                    />
 
                 </div>
             </div>
